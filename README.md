@@ -5,9 +5,7 @@
 
 関東 LibreOffice 勉強会について
 ----------
-[http://wiki.documentfoundation.org/JA/Events/Kanto-benkyokai](公式ページ)
-
-上記より引用：
+[公式 Wiki](http://wiki.documentfoundation.org/JA/Events/Kanto-benkyokai)より引用：
 
 > 関東 LibreOffice 勉強会とは、関東を会場として LibreOffice にまつわるいろんな話題を硬軟取り揃えてゆるーく行う会を目指しています。
 > LibreOffice を使ってこんなことができる！　こんな使い方をしたいけどみんなどうしてる？　この新機能生かしてるよ？　ちょっとたまには開発とかもしてみちゃう？ そんな感じで、いろいろやってみたいと思います。
@@ -21,7 +19,7 @@
 ----------
 日本語用に用意したので使ってください。
 
-[https://github.com/naruoga/KantoLibreOffice/raw/master/LibreOffice_PresentationTemplate_ja.odp](日本語用テンプレート)
+[日本語用テンプレート](https://github.com/naruoga/KantoLibreOffice/raw/master/LibreOffice_PresentationTemplate_ja.odp)
 
 ### 注意 ###
 
