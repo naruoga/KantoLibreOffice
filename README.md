@@ -15,3 +15,10 @@
 イベント資料
 ----------
 * Dec2012 - 第1回関東LibreOffice勉強会。兼、忘年会。
+
+
+プレゼンテーションテンプレート
+----------
+日本語用に用意したので使ってください。
+
+[[LibreOffice_PresentationTemplate_ja.odp]]
