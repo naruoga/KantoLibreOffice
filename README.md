@@ -23,6 +23,6 @@
 
 ### 注意 ###
 
-* このテンプレートは公式 Wiki の [http://wiki.documentfoundation.org/Marketing/Material](Marketing Materials) で配布されている [http://wiki.documentfoundation.org/File:2011-09-18_LibreOffice_PresentationTemplate_Community.odp](LibreOffice Presentation Template Community) の 2011/09/18 版を元にしています。
+* このテンプレートは公式 Wiki の [Marketing Materials](http://wiki.documentfoundation.org/Marketing/Material) で配布されている [LibreOffice Presentation Template Community](http://wiki.documentfoundation.org/File:2011-09-18_LibreOffice_PresentationTemplate_Community.odp) の 2011/09/18 版を元にしています。
 * いずれ許可は取るつもりですが、今のところコミュニティ公式ではありません。
 * 本テンプレートを使用するには IPA Pゴシックが必須です。これは暫定です。直してくれる人歓迎。
