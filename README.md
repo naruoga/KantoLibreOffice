@@ -12,14 +12,12 @@
 
 イベント資料
 ----------
-* Dec2012 - 第1回関東LibreOffice勉強会。兼、忘年会。
+基本的に MMMYYYY というディレクトリ名には通常のオフラインミーティング（旧称 勉強会）資料を置いてあります。 
+
 * Dec2012-Kyushuu - 九州LibreOffice勉強会への出張
-* Jan2013 - 第2回関東LibreOffice勉強会。兼、新年会
 * Feb2013-Hamanako - 浜名湖LibreOffice勉強会への出張
-* Mar2013 - 第3回関東LibreOffice勉強会
-* Apr2013 - 第4回関東LibreOffice勉強会
-* May2013 - 第5回関東LibreOffice勉強会
-* Jun2013 - 第6回関東LibreOfficeオフラインミーティング
+* miniconf2014 - 第2回LibreOffice mini Conference 2014の小笠原発表資料
+* others - LibreOfficeのイベント以外にて小笠原が話したときの資料置き場
 
 2013年2月は[LibreOffice mini Conference 2013 Tokyo/Spring](https://wiki.documentfoundation.org/JA/Events/LibOCon_mini_JP)があったのでお休みしましたが、一応月一回で開催しております。
 
@@ -28,6 +26,8 @@
 日本語用に用意したので使ってください。
 
 [日本語用テンプレート](https://github.com/naruoga/KantoLibreOffice/raw/master/LibreOffice_PresentationTemplate_ja.odp)
+[日本語用テンプレート(Adobe Source Sans Proフォント利用版)](https://github.com/naruoga/KantoLibreOffice/raw/master/LibreOffice_PresentationTemplate_ja_SourceSansPro.odp)
+
 
 ### 注意 ###
 
